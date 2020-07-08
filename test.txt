@@ -1,1 +1,6 @@
-Probando esta mamada
+Desde la terminal crear una carpeta con el nombre "ejercicios-de-prueba"
+
+En esa carpeta cree un programa que pida al usuario 2 numeros por consola e imprima por consola solo el primer numero que el usuario escribio, en un comentario que no afecte la funcionalidad del programa escriba el nombre de la persona que le gusta, luego haga un pull request con la solucion.
+Hagalo en el lenguaje que quiera
+
+Este es su primer paso al exito.
